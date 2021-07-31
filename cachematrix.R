@@ -1,5 +1,5 @@
-## This functions are returning the inverse matrix of an "x" matrics
-## (English isn't my native, so the're might be some strange sentences,
+## This functions are returning the inverse matrix of an "x" matrixs
+## (English isn't my native language, so there might be some strange sentences,
 ## I'm sorry for that)
 
 ## Write a short comment describing this function
